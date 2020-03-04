@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+    color: #3333333;
+    background-color: #eeeeee;  
+}
+.header{
+    background-color: #7757f6;
+}
+
+.header-wrapper{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    overflow: hidden;
+}
+
+.header-logo{
+    float: left;
+}
+
+.header-menu{
+    float: right;   
+}
